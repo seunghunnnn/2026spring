@@ -1,0 +1,45 @@
+phone과 phoneme의 차이
+우리가 실제로 내는 소리 vs 우리 머릿속에서 인지하는 추상적인 소리 단위
+
+음성학의 3가지 분야
+1.	Articulatory phonetics (from mouth)
+	How to produce speech
+
+- the vocal tract, epiglottis(열려야함 : 소리 통하기 위해 / 물 마실 때는 말 못함), dance of tongue
+- 무성음과 유성음 by 혀의 위치나 입술의 모양 (libs, tongue tip, tongue body)
+
+
+2.	Acoustic pho~ (through air)
+How to transmit speech
+
+-praat 사용, 운동 에너지(떨림) -> 전기에너지(sin파로 표현)
+
+: 소리의 높낮이는 1초에 파동이 몇 번 반복되는지로 결정(일반적 남성의 목소리 약 120Hz, 피아노의 '라'음 440Hz)
+  복잡한 소리들은 이러한 pure tone이 조화롭게 쌓여서 만들어짐,  fourier analysis를 통해 분석 가능
+  cf) 소리를 녹음으로 입력받아서 그걸 푸리에 분석을 해주는 html
+
+source가 filter를 거쳐서 소리가 결정
+source의 인지는 가장 낮은 것 위주로, 하나의 sin wave의 배수로 표현/ 그러한 source들이 물리적 특성을 지닌 filter를 지나면
+filter가 특정 부분을 공명
+
+formant, 즉 f1, f2를 통해 어떤 모음인지 결정 가능 (front-back / high - low : how to associate with formant)
+
+High -> f1 is low
+Low -> f1 is high
+:f1은 높이 발화할수록 떨어짐
+
+F2 high -> front
+F2 low -> back
+
+그럼 formant는 어떻게 결정됨? : schwa를 살펴봐야함
+
+
+
+
+3.	Auditory pho~(to ear)
+	How to hear speech
+
+
+
+
+  
