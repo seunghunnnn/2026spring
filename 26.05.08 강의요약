@@ -40,6 +40,12 @@ F2 low -> back
 	How to hear speech
 
 
+Digital signal processing
+Sampling rate (Hz) : cd, 1초에 44100hz, 44100숫자를 1초에 사용함
+Frequency (Hz) : 1초에 몇 번 반복 -> digital에서 쓰임 (sin wave가 1초에 ~반복)
+
+
+
 
 
   
